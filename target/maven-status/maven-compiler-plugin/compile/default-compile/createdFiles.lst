@@ -1,0 +1,6 @@
+com\example\demo\Emp.class
+com\example\demo\DemoApplication.class
+com\example\demo\MyController.class
+com\example\demo\service\DataService.class
+com\example\demo\PersistenceConfig.class
+com\example\demo\PersistenceJPAConfig.class
